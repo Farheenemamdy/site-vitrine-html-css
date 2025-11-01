@@ -1,16 +1,22 @@
-# site-vitrine-html-css
-Un projet en HTML/CSS pour montrer ma connaissance dans ces langues.
+# Site vitrine HTML/CSS
 
-# Mon projet HTML/CSS
+Un projet réalisé pour mettre en pratique mes compétences en **HTML** et **CSS**, dans le cadre de ma formation en *Techniques Infographiques*.
 
-Petit projet réalisé dans le cadre de ma formation en Techniques Infographies.
+## 🎯 Objectif
+Créer un mini site vitrine simple, clair et responsive pour apprendre les bases du design web et de la mise en page.
 
-## Objectif
-Création d'une page web simple avec HTML et CSS pour apprendre les bases du design et de la mise en page.
+## 🧰 Technologies utilisées
+- HTML5  
+- CSS3  
 
-## Langages utilisés
-- HTML
-- CSS
+## 📷 Contenu
+Le site comprend une page d’accueil, une section “À propos” et plusieurs visuels d’illustration.
 
-## Résultat
-Une page claire, responsive et facile à lire.
+## 🧠 Ce que j’ai appris
+- Structurer une page HTML correctement  
+- Gérer la mise en forme et les couleurs via CSS  
+- Adapter un design pour différents formats d’écran  
+
+---
+
+© 2025 Noor-E-Ayn Emamdy
