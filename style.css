@@ -50,7 +50,7 @@ html, body, header, nav, ul, li, section, div, h1, h2, h3, p, img, form, input, 
   }
   
   section.hero {
-    background-image: url('images/pexels-beyzaa-yurtkuran-15960210.jpg');
+    background-image: url('pexels-beyzaa-yurtkuran-15960210.jpg');
     background-size: cover;
     background-position: center;
     height: 400px;
@@ -142,4 +142,5 @@ html, body, header, nav, ul, li, section, div, h1, h2, h3, p, img, form, input, 
     color: #fff;
     text-align: center;
   }
+
   
