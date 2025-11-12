@@ -74,6 +74,17 @@
     <p>nooreaynfarheenja@gmail.com</p>
     <p>0472/90.34.19</p>
   </footer>
+  
+  <script>
+  const form = document.querySelector("form");
+  form.addEventListener("submit", function (e) {
+    e.preventDefault(); // empêche l’envoi “réel” du formulaire
+    alert("Merci pour votre message ! Nous vous répondrons bientôt.");
+    form.reset(); // remet le formulaire à zéro
+  });
+</script>
+  
 </body>
 </html>
+
 
