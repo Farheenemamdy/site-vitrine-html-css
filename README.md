@@ -2,6 +2,8 @@
 
 Un projet réalisé pour mettre en pratique mes compétences en //HTML// et //CSS// et //JAVASCRIPT//, dans le cadre de ma formation en Techniques Infographiques.
 
+https://farheenemamdy.github.io/site-vitrine-html-css-Javascript
+
 ## Objectif
 Créer un mini site vitrine simple, clair et responsive pour apprendre les bases du design web et de la mise en page. Intégration JavaScript dans un site vitrine HTML/CSS de bijouterie.  
 Le script affiche un message de confirmation quand l’utilisateur clique sur le bouton //“Send Message”// du formulaire de contact.
